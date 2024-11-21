@@ -5,11 +5,11 @@ Welcome to my GitHub profile! My passion lies in making technology accessible fo
 ---
 
 ## 🧠 About Me
-- 🎓 Researcher focused on **technology integration and accessibility** for diverse populations
-- 📚 **Currently studying** Artificial Intelligence (AI) and Machine Learning (ML) to deepen my understanding of innovative solutions and their societal impact
+- 🎓 AI, ML and Robotics
+- 📚 **Currently studying** Artificial Intelligence (AI) and Machine Learning (ML) with focus on Natural Language Processing to deepen my understanding of innovative solutions and their societal impact
 - 📝 Published author in peer-reviewed journals and conferences
 - 🤖 Dedicated to building technology solutions for societal good and inclusion
-- 💡 Passionate about human-centered design, intuitive interfaces, and meaningful technology adoption
+- 💡 Passionate about socially assistive robots, human-centered design, intuitive interfaces, and meaningful technology adoption
 
 ---
 
